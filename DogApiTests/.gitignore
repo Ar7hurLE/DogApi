@@ -1,0 +1,15 @@
+output.xml
+log.html
+report.html
+relatorio/
+results/
+__pycache__/
+*.pyc
+chromedriver
+geckodriver
+*.exe
+.DS_Store
+.vscode/
+.idea/
+venv/
+.env/

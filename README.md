@@ -27,8 +27,10 @@ Para executar os testes localmente, é necessário ter instalado:
 
 ```bash
 pip install robotframework robotframework-seleniumlibrary robotframework-requests webdriver-manager
-## Execução Local
 ```
+
+## Execução Local
+
 Para rodar os testes:
 
 ```bash

@@ -17,16 +17,15 @@
 ---
 ## 📋 Pré-requisitos
 
-Para executar os testes localmente, é necessário ter instalado:
+Para executar os testes localmente, é necessário:
 
 - Python 3.10+
 - Robot Framework
-- Google Chrome
 
 ## ⚙️ Instalação
 
 ```bash
-pip install robotframework robotframework-seleniumlibrary robotframework-requests webdriver-manager
+pip install robotframework robotframework-requests
 ```
 
 ## Execução Local

@@ -15,9 +15,20 @@
 | ❌ Cenário de erro: raça inexistente | Valida que o endpoint retorna vazio para raças inexistentes (ex.: xxx, yyy) |
 
 ---
+## 📋 Pré-requisitos
 
+Para executar os testes localmente, é necessário ter instalado:
+
+- Python 3.10+
+- Robot Framework
+- Google Chrome
+
+## ⚙️ Instalação
+
+```bash
+pip install robotframework robotframework-seleniumlibrary robotframework-requests webdriver-manager
 ## Execução Local
-
+```
 Para rodar os testes:
 
 ```bash
